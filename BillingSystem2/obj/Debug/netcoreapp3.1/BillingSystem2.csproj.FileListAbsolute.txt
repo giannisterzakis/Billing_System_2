@@ -1,0 +1,13 @@
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.exe
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.deps.json
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.runtimeconfig.json
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.runtimeconfig.dev.json
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.dll
+D:\University 2020-2021\C#\Week 4\BillingSystem2\bin\Debug\netcoreapp3.1\BillingSystem2.pdb
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.AssemblyInfoInputs.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.AssemblyInfo.cs
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.dll
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.pdb
+D:\University 2020-2021\C#\Week 4\BillingSystem2\obj\Debug\netcoreapp3.1\BillingSystem2.genruntimeconfig.cache
